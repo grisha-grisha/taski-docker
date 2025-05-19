@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.0.2.15', '158.160.68.140', 'localhost', 'grisha-prikol2.sytes.net', 'backend', '127.0.0.1']
+ALLOWED_HOSTS = ['10.0.2.15', '158.160.68.140', 'localhost', 'grisha-prikol.sytes.net', 'backend', '127.0.0.1']
 
 
 # Application definition
